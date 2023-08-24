@@ -1,0 +1,49 @@
+
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: rgba(253, 165, 103, 0.925);
+    font-family: sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(253, 135, 194)
+}
+
+
+#a1 {
+    text-align: center;
+    color: rgb(120, 255, 120);
+    font-family: serif;
+}
+
+#a2 {
+    text-align: center;
+    color: rgb(120, 255, 120);
+    font-family: sans-serif;
+}
+
+#a3 {
+    text-align: center;
+    color: rgb(120, 255, 120);
+    font-family: fantasy;
+}
+
+#a4 {
+    text-align: center;
+    color: rgb(120, 255, 120);
+    font-family: cursive;
+
+}
+
+#a5 {
+    text-align: center;
+    color: rgb(120, 255, 120);
+    font-family: monospace;
+}
